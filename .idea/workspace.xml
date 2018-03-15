@@ -3,106 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="e9524914-ac7f-4480-b87b-490ea3631027" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change beforePath="$PROJECT_DIR$/app_server/controllers/items.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app_server/routes/index.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app_server/views/error.pug" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app_server/views/index.pug" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app_server/views/layout.pug" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/bin/www" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/CONTRIBUTING.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/LICENSE" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/bin/ng" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/commands/build.d.ts" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/commands/build.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/commands/build.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/commands/completion.d.ts" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/commands/completion.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/commands/completion.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/commands/destroy.d.ts" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/commands/destroy.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/commands/destroy.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/commands/doc.d.ts" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/commands/doc.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/commands/doc.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/commands/e2e.d.ts" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/commands/e2e.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/commands/e2e.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/commands/easter-egg.d.ts" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/commands/easter-egg.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/commands/easter-egg.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/commands/eject.d.ts" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/commands/eject.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/commands/eject.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/commands/generate.d.ts" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/commands/generate.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/commands/generate.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/commands/get.d.ts" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/commands/get.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/commands/get.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/commands/help.d.ts" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/commands/help.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/commands/help.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/commands/lint.d.ts" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/commands/lint.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/commands/lint.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/commands/new.d.ts" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/commands/new.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/commands/new.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/commands/serve.d.ts" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/commands/serve.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/commands/serve.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/commands/set.d.ts" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/commands/set.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/commands/set.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/commands/test.d.ts" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/commands/test.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/commands/test.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/commands/update.d.ts" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/commands/update.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/commands/update.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/commands/version.d.ts" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/commands/version.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/commands/version.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/commands/xi18n.d.ts" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/commands/xi18n.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/commands/xi18n.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/ember-cli/LICENSE.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/ember-cli/lib/cli/cli.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/ember-cli/lib/cli/index.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/ember-cli/lib/cli/lookup-command.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/ember-cli/lib/commands/unknown.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/ember-cli/lib/models/command.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/ember-cli/lib/models/installation-checker.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/ember-cli/lib/models/project.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/ember-cli/lib/models/task.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/ember-cli/lib/ui/index.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/ember-cli/lib/ui/write-error.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/ember-cli/lib/utilities/get-option-args.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/ember-cli/lib/utilities/get-package-base-name.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/ember-cli/lib/utilities/print-command.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/lib/base-href-webpack/base-href-webpack-plugin.d.ts" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/lib/base-href-webpack/base-href-webpack-plugin.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/lib/base-href-webpack/base-href-webpack-plugin.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/lib/base-href-webpack/index.d.ts" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/lib/base-href-webpack/index.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/lib/base-href-webpack/index.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/lib/cli/index.d.ts" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/lib/cli/index.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/lib/cli/index.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/lib/config/schema.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/models/build-options.d.ts" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/models/build-options.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/models/build-options.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/models/config.d.ts" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/models/config.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/models/config.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/models/config/config.d.ts" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/models/config/config.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/models/config/config.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/models/config/spec-schema.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/models/error.d.ts" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/models/error.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/models/error.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/Assignment5.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/bin_www.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -135,8 +41,8 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="346">
-              <caret line="36" column="14" lean-forward="true" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
+            <state relative-caret-position="303">
+              <caret line="58" column="0" lean-forward="true" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -481,12 +387,12 @@
       <workItem from="1520995456319" duration="2109000" />
       <workItem from="1521075271001" duration="2049000" />
       <workItem from="1521077704730" duration="4916000" />
-      <workItem from="1521135632178" duration="1405000" />
+      <workItem from="1521135632178" duration="1645000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15766000" />
+    <option name="totallyTimeSpent" value="16006000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -876,8 +782,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="36" column="14" lean-forward="true" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
+        <state relative-caret-position="303">
+          <caret line="58" column="0" lean-forward="true" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
           <folding />
         </state>
       </provider>
